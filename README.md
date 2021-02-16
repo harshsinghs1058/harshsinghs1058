@@ -7,7 +7,7 @@
 </a>
 
 </a>
-<a href="mailto:harshsinghs1058">
+<a href="mailto:harshsinghs1058@gmail.com">
   <img align="left" alt="Harsh's gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
 </a>
 </a>
