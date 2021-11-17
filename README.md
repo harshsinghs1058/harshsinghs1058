@@ -22,7 +22,8 @@
 <br/>
 <br/>
 
-- 🌱 I’m currently learning Flutter and nodeJs.
+- 🌱 I’m currently learning MERN Development.
+- 😅 Sometimes I am a Flutter Devloper
 - 🤔 I’m looking for help with Data Structures and Algorithms.
 - 🥅 2021 Goals: Contribute more to Open Source Projects
 - ⚡ Fun fact: I have been playing COC games since 2015.
